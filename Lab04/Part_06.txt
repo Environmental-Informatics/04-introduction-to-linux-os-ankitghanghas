@@ -1,0 +1,4 @@
+Mandelbrot set is the seto fo complex numebers c for wihich the funcion does not diverge when iterated from z=0 it for which the sequence fc(0),fc(fc(0)) etc remain bound in an absolute valuie
+its definateion is credited to adrein doudaeuy tho named it in tribute to mathematician Benoit Mandlebrot. The set is connected to a Julia sets produce simialry complex fractal shapes.
+Mandelbrot set images may be created by sampling the complex numbers and testing, for each sample point c. whiere the sequence goes to infinity. Treating the real and imaginary parts of c as image coordinates on the complex plane, pixels may then be coloured according to how soon the sequences corsses an arbiratrily chosen word.
+The mandelbrot set has become popular outside mathematics both for its astheic appeal and as an example of a complex structure arising from the applicaiton of simple rules. It is one of the bes-known exaples of mahtematical visualizaiton and mathematical beauty.
